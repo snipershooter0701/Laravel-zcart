@@ -1,0 +1,368 @@
+
+[30-Jun-2022 17:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[05-Jul-2022 10:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[05-Jul-2022 10:40:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[05-Jul-2022 10:40:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[06-Jul-2022 10:47:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[06-Jul-2022 22:38:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[06-Jul-2022 22:38:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[06-Jul-2022 22:38:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[06-Jul-2022 22:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[08-Jul-2022 16:09:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[08-Jul-2022 16:09:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[08-Jul-2022 16:09:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[08-Jul-2022 16:09:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[15-Jul-2022 20:17:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[22-Jul-2022 16:43:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[24-Jul-2022 18:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[24-Jul-2022 18:28:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[24-Jul-2022 18:28:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[24-Jul-2022 18:28:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[26-Jul-2022 06:01:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[26-Jul-2022 06:01:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[26-Jul-2022 06:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[26-Jul-2022 06:01:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[29-Jul-2022 14:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[29-Jul-2022 14:50:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[29-Jul-2022 14:50:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[29-Jul-2022 14:50:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[04-Aug-2022 14:13:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[14-Aug-2022 11:32:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[20-Aug-2022 21:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[29-Aug-2022 22:07:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[02-Sep-2022 22:07:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[10-Sep-2022 21:45:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[13-Sep-2022 05:02:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[13-Sep-2022 05:02:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[13-Sep-2022 05:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[13-Sep-2022 05:02:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[15-Sep-2022 19:54:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[15-Sep-2022 19:54:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[15-Sep-2022 19:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[15-Sep-2022 19:55:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[16-Sep-2022 20:40:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[19-Sep-2022 10:10:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[19-Sep-2022 10:10:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[19-Sep-2022 10:10:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[19-Sep-2022 10:10:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[21-Sep-2022 22:24:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[24-Sep-2022 17:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[24-Sep-2022 17:30:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[24-Sep-2022 17:30:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[24-Sep-2022 17:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[26-Sep-2022 21:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[26-Sep-2022 21:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[26-Sep-2022 21:55:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[26-Sep-2022 21:55:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[28-Sep-2022 08:08:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[28-Sep-2022 08:08:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[28-Sep-2022 08:08:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[28-Sep-2022 08:08:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[28-Sep-2022 13:29:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[29-Sep-2022 02:12:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[29-Sep-2022 03:57:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[29-Sep-2022 19:42:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[30-Sep-2022 19:08:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[01-Oct-2022 04:57:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[01-Oct-2022 06:29:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[01-Oct-2022 16:47:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[01-Oct-2022 16:47:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[01-Oct-2022 16:47:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[01-Oct-2022 16:47:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[05-Oct-2022 17:22:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[13-Oct-2022 05:11:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[18-Oct-2022 12:07:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[23-Oct-2022 23:00:33 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[01-Nov-2022 02:56:19 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[12-Nov-2022 02:42:57 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[12-Nov-2022 02:43:05 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[12-Nov-2022 02:43:11 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[12-Nov-2022 02:43:18 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[13-Nov-2022 03:36:29 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[18-Nov-2022 14:09:15 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[24-Nov-2022 12:28:30 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[30-Nov-2022 08:06:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[02-Dec-2022 07:55:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[02-Dec-2022 08:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[03-Dec-2022 00:22:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[03-Dec-2022 06:36:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[03-Dec-2022 14:00:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[03-Dec-2022 16:38:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[03-Dec-2022 17:59:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[03-Dec-2022 19:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[03-Dec-2022 21:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[04-Dec-2022 00:25:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[08-Dec-2022 17:16:55 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 12
+[08-Dec-2022 17:20:02 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 11
+[18-Dec-2022 17:58:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10
+[20-Dec-2022 07:18:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[22-Dec-2022 15:52:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[17-Feb-2023 16:47:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[03-Mar-2023 20:05:49 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/NotifyCustomerPasswordUpdated.php on line 10
+[03-Mar-2023 20:06:01 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/RegisterNewsletter.php on line 11
+[03-Mar-2023 20:06:11 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendProfileUpdateNotification.php on line 10
+[03-Mar-2023 20:06:17 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Listeners/Customer/SendWelcomeEmail.php on line 10

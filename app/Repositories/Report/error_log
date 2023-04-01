@@ -1,0 +1,85 @@
+
+[06-Jul-2022 23:18:02 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[08-Jul-2022 16:20:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[24-Jul-2022 19:04:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[26-Jul-2022 06:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[29-Jul-2022 15:23:53 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[28-Aug-2022 06:38:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[30-Aug-2022 16:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[13-Sep-2022 05:35:26 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[15-Sep-2022 22:14:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[17-Sep-2022 16:12:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[19-Sep-2022 10:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[24-Sep-2022 18:59:18 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[25-Sep-2022 16:05:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[26-Sep-2022 22:35:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[28-Sep-2022 08:30:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[01-Oct-2022 17:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[17-Oct-2022 19:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[12-Nov-2022 03:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[03-Dec-2022 18:07:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[18-Dec-2022 00:34:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13
+[18-Dec-2022 05:55:45 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Report/EloquentSalesReportsRepository.php on line 13

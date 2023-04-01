@@ -1,0 +1,5 @@
+[08-Dec-2022 18:11:57 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/srkwebapp/public_html/zcart/app/Helpers/GoogleAnalytics.php on line 12
+[10-Dec-2022 20:26:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Helpers/Functions.php on line 302
+[10-Dec-2022 20:27:06 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/srkwebapp/public_html/zcart/app/Helpers/GoogleAnalytics.php on line 12
+[10-Dec-2022 20:27:26 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/srkwebapp/public_html/zcart/app/Helpers/Period.php on line 17
+[10-Dec-2022 20:28:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Helpers/SystemHelper.php on line 321

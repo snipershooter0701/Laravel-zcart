@@ -1,0 +1,658 @@
+
+[28-Jun-2022 05:25:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[28-Jun-2022 06:15:00 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[30-Jun-2022 00:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[30-Jun-2022 18:51:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[30-Jun-2022 18:51:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[30-Jun-2022 18:51:56 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[30-Jun-2022 18:51:58 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[30-Jun-2022 18:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[30-Jun-2022 18:52:04 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[30-Jun-2022 18:52:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[30-Jun-2022 18:52:10 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[03-Jul-2022 16:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[03-Jul-2022 23:36:01 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[04-Jul-2022 20:08:01 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[05-Jul-2022 10:38:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[05-Jul-2022 10:38:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[05-Jul-2022 10:38:39 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[05-Jul-2022 10:38:41 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[05-Jul-2022 10:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[05-Jul-2022 10:38:49 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[05-Jul-2022 10:38:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[05-Jul-2022 10:38:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[06-Jul-2022 22:37:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[06-Jul-2022 22:37:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[06-Jul-2022 22:37:33 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[06-Jul-2022 22:37:36 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[06-Jul-2022 22:37:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[06-Jul-2022 22:37:44 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[06-Jul-2022 22:37:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[06-Jul-2022 22:37:50 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[08-Jul-2022 23:12:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[10-Jul-2022 14:31:11 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[14-Jul-2022 17:36:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[15-Jul-2022 06:56:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[20-Jul-2022 03:14:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[21-Jul-2022 08:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[21-Jul-2022 10:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[21-Jul-2022 10:28:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[21-Jul-2022 10:28:45 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[21-Jul-2022 10:28:57 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[21-Jul-2022 10:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[21-Jul-2022 10:29:26 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[21-Jul-2022 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[21-Jul-2022 10:29:41 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[23-Jul-2022 14:09:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[23-Jul-2022 14:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[23-Jul-2022 14:09:29 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[23-Jul-2022 14:09:32 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[23-Jul-2022 14:09:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[23-Jul-2022 14:09:39 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[23-Jul-2022 14:09:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[23-Jul-2022 14:09:46 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[24-Jul-2022 18:26:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[24-Jul-2022 18:26:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[24-Jul-2022 18:26:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[24-Jul-2022 18:26:58 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[24-Jul-2022 18:27:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[24-Jul-2022 18:27:10 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[24-Jul-2022 18:27:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[24-Jul-2022 18:27:17 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[25-Jul-2022 19:16:09 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[26-Jul-2022 05:59:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[26-Jul-2022 05:59:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[26-Jul-2022 05:59:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[26-Jul-2022 05:59:58 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[26-Jul-2022 06:00:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[26-Jul-2022 06:00:05 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[26-Jul-2022 06:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[26-Jul-2022 06:00:12 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[29-Jul-2022 14:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[29-Jul-2022 14:48:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[29-Jul-2022 14:48:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[29-Jul-2022 14:48:57 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[29-Jul-2022 14:49:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[29-Jul-2022 14:49:16 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[29-Jul-2022 14:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[29-Jul-2022 14:49:42 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[03-Aug-2022 20:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[05-Aug-2022 22:28:26 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[06-Aug-2022 11:29:55 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[09-Aug-2022 20:39:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[09-Aug-2022 21:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[16-Aug-2022 00:21:28 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[16-Aug-2022 06:20:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[18-Aug-2022 09:38:06 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[18-Aug-2022 10:28:26 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[19-Aug-2022 03:20:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[21-Aug-2022 15:48:48 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[22-Aug-2022 18:50:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[23-Aug-2022 00:07:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[23-Aug-2022 13:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[23-Aug-2022 19:40:21 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[24-Aug-2022 01:14:27 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[24-Aug-2022 10:42:58 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[24-Aug-2022 17:13:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[24-Aug-2022 21:51:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[25-Aug-2022 09:09:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[25-Aug-2022 16:47:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[26-Aug-2022 00:14:39 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[26-Aug-2022 04:06:07 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[26-Aug-2022 18:20:00 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[26-Aug-2022 19:34:57 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[27-Aug-2022 18:36:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[30-Aug-2022 11:05:49 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[01-Sep-2022 18:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[02-Sep-2022 10:41:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[02-Sep-2022 10:42:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[02-Sep-2022 10:42:35 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[02-Sep-2022 10:43:05 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[02-Sep-2022 10:43:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[02-Sep-2022 10:44:06 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[02-Sep-2022 10:44:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[02-Sep-2022 10:45:07 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[05-Sep-2022 23:24:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[09-Sep-2022 14:56:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[09-Sep-2022 17:32:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[09-Sep-2022 17:32:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[09-Sep-2022 17:32:38 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[09-Sep-2022 17:32:42 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[09-Sep-2022 17:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[09-Sep-2022 17:32:56 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[09-Sep-2022 17:33:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[09-Sep-2022 17:33:08 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[10-Sep-2022 11:07:42 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[10-Sep-2022 19:46:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[10-Sep-2022 21:47:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[11-Sep-2022 04:00:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[11-Sep-2022 05:45:12 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[11-Sep-2022 08:38:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[11-Sep-2022 08:45:44 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[13-Sep-2022 04:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[13-Sep-2022 04:59:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[13-Sep-2022 05:00:02 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[13-Sep-2022 05:00:05 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[13-Sep-2022 05:00:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[13-Sep-2022 05:00:14 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[13-Sep-2022 05:00:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[13-Sep-2022 05:00:25 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[13-Sep-2022 07:31:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[13-Sep-2022 13:52:52 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[15-Sep-2022 16:54:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[15-Sep-2022 19:47:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[15-Sep-2022 19:48:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[15-Sep-2022 19:48:40 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[15-Sep-2022 19:49:02 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[15-Sep-2022 19:49:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[15-Sep-2022 19:49:44 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[15-Sep-2022 19:50:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[15-Sep-2022 19:50:27 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[16-Sep-2022 02:47:45 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[17-Sep-2022 09:30:57 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[18-Sep-2022 15:04:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[18-Sep-2022 21:58:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[19-Sep-2022 12:28:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[20-Sep-2022 04:55:50 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[20-Sep-2022 20:56:53 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[24-Sep-2022 10:49:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[24-Sep-2022 10:49:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[24-Sep-2022 10:49:35 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[24-Sep-2022 10:49:39 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[24-Sep-2022 10:49:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[24-Sep-2022 10:49:48 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[24-Sep-2022 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[24-Sep-2022 10:49:55 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[24-Sep-2022 12:17:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[24-Sep-2022 17:22:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[24-Sep-2022 17:22:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[24-Sep-2022 17:22:58 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[24-Sep-2022 17:23:11 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[24-Sep-2022 17:23:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[24-Sep-2022 17:23:38 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[24-Sep-2022 17:24:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[24-Sep-2022 17:24:21 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[25-Sep-2022 17:24:17 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[26-Sep-2022 21:53:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[26-Sep-2022 21:53:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[26-Sep-2022 21:54:00 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[26-Sep-2022 21:54:04 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[26-Sep-2022 21:54:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[26-Sep-2022 21:54:10 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[26-Sep-2022 21:54:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[26-Sep-2022 21:54:16 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[28-Sep-2022 08:06:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[28-Sep-2022 08:06:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[28-Sep-2022 08:06:53 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[28-Sep-2022 08:06:56 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[28-Sep-2022 08:07:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[28-Sep-2022 08:07:03 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[28-Sep-2022 08:07:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[28-Sep-2022 08:07:10 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[02-Oct-2022 10:50:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[02-Oct-2022 17:10:46 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[03-Oct-2022 09:22:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[07-Oct-2022 16:31:07 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[08-Oct-2022 19:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[09-Oct-2022 12:22:44 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[14-Oct-2022 07:55:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[18-Oct-2022 05:46:13 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[18-Oct-2022 09:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[18-Oct-2022 14:37:44 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[18-Oct-2022 15:18:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[18-Oct-2022 20:03:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[18-Oct-2022 22:30:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[19-Oct-2022 04:11:16 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[19-Oct-2022 05:32:21 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[19-Oct-2022 06:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[19-Oct-2022 13:37:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[19-Oct-2022 13:49:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[19-Oct-2022 14:20:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[19-Oct-2022 16:02:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[19-Oct-2022 21:29:38 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[20-Oct-2022 06:21:17 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[20-Oct-2022 11:19:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[20-Oct-2022 15:09:11 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[22-Oct-2022 04:26:09 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[22-Oct-2022 04:59:57 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[22-Oct-2022 15:26:42 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 10
+[26-Oct-2022 08:29:24 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 12
+[26-Oct-2022 09:09:42 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 14
+[26-Oct-2022 09:27:30 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 10
+[26-Oct-2022 22:20:17 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 16
+[27-Oct-2022 00:22:14 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 25
+[27-Oct-2022 02:05:56 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 14
+[27-Oct-2022 15:58:44 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 10
+[28-Oct-2022 20:24:01 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 10
+[29-Oct-2022 21:34:52 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 14
+[30-Oct-2022 10:00:16 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 16
+[31-Oct-2022 09:16:03 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 10
+[02-Nov-2022 05:41:14 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 16
+[10-Nov-2022 16:01:20 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 10
+[12-Nov-2022 02:40:23 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 14
+[12-Nov-2022 02:40:27 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 14
+[12-Nov-2022 02:40:34 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 10
+[12-Nov-2022 02:40:39 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 12
+[12-Nov-2022 02:40:52 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 25
+[12-Nov-2022 02:40:56 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 10
+[12-Nov-2022 02:41:02 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 16
+[12-Nov-2022 02:41:09 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 14
+[16-Nov-2022 14:45:10 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 16
+[19-Nov-2022 20:48:25 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 14
+[22-Nov-2022 08:05:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 14
+[22-Nov-2022 17:46:38 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 10
+[22-Nov-2022 22:37:36 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 16
+[23-Nov-2022 00:05:40 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 16
+[29-Nov-2022 04:06:36 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[30-Nov-2022 02:17:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[30-Nov-2022 11:31:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[02-Dec-2022 21:02:13 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[04-Dec-2022 00:21:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[05-Dec-2022 05:50:30 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[06-Dec-2022 08:10:05 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[08-Dec-2022 17:26:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 10
+[11-Dec-2022 00:28:16 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 15
+[11-Dec-2022 02:36:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 59
+[11-Dec-2022 07:50:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 59
+[11-Dec-2022 07:51:41 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 13
+[13-Dec-2022 12:42:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 75
+[17-Dec-2022 19:03:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[17-Dec-2022 22:06:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[18-Dec-2022 05:17:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[18-Dec-2022 05:27:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/SendContactFromMessageToAdmin.php on line 14
+[18-Dec-2022 13:56:21 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[18-Dec-2022 18:57:17 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[18-Dec-2022 22:08:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[19-Dec-2022 00:38:14 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/CreateShopForMerchant.php on line 10
+[19-Dec-2022 03:19:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[19-Dec-2022 05:00:08 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[19-Dec-2022 20:35:58 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[20-Dec-2022 00:54:15 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[20-Dec-2022 23:40:09 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[20-Dec-2022 23:44:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[21-Dec-2022 11:52:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 12
+[21-Dec-2022 14:07:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[22-Dec-2022 13:33:41 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[22-Dec-2022 21:20:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/ProcessInventoryCsvBulkUpload.php on line 23
+[24-Dec-2022 23:51:08 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 8
+[10-Feb-2023 03:55:57 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 8
+[17-Feb-2023 22:15:53 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/SubscribeShopToNewPlan.php on line 12
+[20-Feb-2023 03:32:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Jobs/AdjustQttForCanceledOrder.php on line 12
+[01-Mar-2023 10:33:45 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ResetDbAndImportDemoData.php on line 10
+[02-Mar-2023 05:04:09 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/AfterOrderCancellationJob.php on line 14
+[07-Mar-2023 10:04:18 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Bus\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Jobs/ChargeCustomerForOrder.php on line 10

@@ -1,0 +1,49 @@
+[28-Mar-2023 21:26:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\stdClass" not found in /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:791
+Stack trace:
+#0 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build()
+#1 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve()
+#2 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#3 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build()
+#4 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve()
+#5 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make()
+#6 /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php(54): Illuminate\Foundation\Application->make()
+#7 /home/srkwebapp/zcart.srkwebappinnovations.com/server.php(21): require_once('/home/srkwebapp...')
+#8 {main}
+  thrown in /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 791
+[28-Mar-2023 21:27:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\stdClass" not found in /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:791
+Stack trace:
+#0 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build()
+#1 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve()
+#2 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#3 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build()
+#4 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve()
+#5 /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make()
+#6 /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php(54): Illuminate\Foundation\Application->make()
+#7 /home/srkwebapp/zcart.srkwebappinnovations.com/server.php(21): require_once('/home/srkwebapp...')
+#8 {main}
+  thrown in /home/srkwebapp/zcart.srkwebappinnovations.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 791
+[28-Mar-2023 21:36:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function handle() on string in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php:56
+Stack trace:
+#0 /home/srkwebapp/zcart.srkwebappinnovations.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php on line 56
+[28-Mar-2023 21:36:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function handle() on string in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php:56
+Stack trace:
+#0 /home/srkwebapp/zcart.srkwebappinnovations.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php on line 56
+[28-Mar-2023 21:36:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function handle() on string in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php:56
+Stack trace:
+#0 /home/srkwebapp/zcart.srkwebappinnovations.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php on line 56
+[28-Mar-2023 21:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function handle() on string in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php:56
+Stack trace:
+#0 /home/srkwebapp/zcart.srkwebappinnovations.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php on line 56
+[28-Mar-2023 21:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function handle() on string in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php:56
+Stack trace:
+#0 /home/srkwebapp/zcart.srkwebappinnovations.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home/srkwebapp/zcart.srkwebappinnovations.com/public/index.php on line 56

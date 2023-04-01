@@ -1,0 +1,105 @@
+
+[30-Jun-2022 18:48:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[05-Jul-2022 10:23:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[06-Jul-2022 22:05:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[21-Jul-2022 10:13:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[23-Jul-2022 14:04:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[24-Jul-2022 18:07:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[26-Jul-2022 05:20:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[26-Jul-2022 13:06:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[29-Jul-2022 13:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[16-Aug-2022 06:15:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[26-Aug-2022 03:38:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[02-Sep-2022 10:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[09-Sep-2022 17:25:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[13-Sep-2022 04:38:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[13-Sep-2022 15:27:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[15-Sep-2022 16:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[23-Sep-2022 11:34:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[24-Sep-2022 10:44:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[24-Sep-2022 16:33:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[26-Sep-2022 21:40:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[28-Sep-2022 07:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[21-Oct-2022 02:46:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[12-Nov-2022 01:35:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[23-Nov-2022 00:05:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[30-Nov-2022 17:25:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9
+[21-Dec-2022 22:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Console/Kernel.php on line 9

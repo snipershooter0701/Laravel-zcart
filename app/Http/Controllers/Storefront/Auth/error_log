@@ -1,0 +1,137 @@
+
+[08-Jul-2022 15:47:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[08-Jul-2022 15:47:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[08-Jul-2022 15:48:03 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[08-Jul-2022 15:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14
+[29-Jul-2022 14:14:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[29-Jul-2022 14:14:33 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[29-Jul-2022 14:14:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[29-Jul-2022 14:14:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14
+[04-Aug-2022 16:48:29 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[04-Aug-2022 16:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[04-Aug-2022 16:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[04-Aug-2022 16:48:49 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14
+[19-Sep-2022 09:54:20 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[19-Sep-2022 09:54:26 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[19-Sep-2022 09:54:33 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[19-Sep-2022 09:54:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14
+[01-Oct-2022 16:29:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[01-Oct-2022 16:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[01-Oct-2022 16:29:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[01-Oct-2022 16:29:16 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14
+[07-Oct-2022 04:11:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[07-Oct-2022 04:12:07 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[07-Oct-2022 04:12:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[07-Oct-2022 04:12:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14
+[05-Dec-2022 18:00:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[06-Dec-2022 14:23:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 16
+[06-Dec-2022 15:17:33 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 15
+[06-Dec-2022 23:43:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 105
+[09-Dec-2022 19:35:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 15
+[19-Feb-2023 19:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[20-Feb-2023 06:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14
+[20-Feb-2023 19:12:58 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[20-Feb-2023 20:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[02-Mar-2023 23:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ForgotPasswordController.php on line 9
+[02-Mar-2023 23:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/LoginController.php on line 14
+[02-Mar-2023 23:41:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/RegisterController.php on line 15
+[02-Mar-2023 23:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Storefront/Auth/ResetPasswordController.php on line 14

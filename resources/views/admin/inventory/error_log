@@ -1,0 +1,54 @@
+
+[01-Jul-2022 14:13:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[06-Jul-2022 23:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[26-Jul-2022 07:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[16-Sep-2022 00:44:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[22-Sep-2022 08:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[28-Sep-2022 08:55:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[11-Oct-2022 17:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[12-Nov-2022 04:41:26 UTC] PHP Notice:  Undefined variable: i in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/_formWithVariant.blade.php on line 196
+[12-Nov-2022 04:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[03-Dec-2022 15:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[04-Dec-2022 03:20:30 UTC] PHP Notice:  Undefined variable: i in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/_formWithVariant.blade.php on line 196
+[09-Dec-2022 03:14:35 UTC] PHP Fatal error:  Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[19-Dec-2022 18:10:28 UTC] PHP Notice:  Undefined variable: i in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/_formWithVariant.blade.php on line 196
+[22-Dec-2022 05:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[19-Feb-2023 11:32:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168
+[20-Feb-2023 07:04:27 UTC] PHP Notice:  Undefined variable: i in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/_formWithVariant.blade.php on line 196
+[21-Feb-2023 06:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/inventory/index.blade.php on line 168

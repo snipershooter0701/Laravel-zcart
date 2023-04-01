@@ -1,0 +1,90 @@
+
+[03-Jul-2022 11:01:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[07-Jul-2022 00:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[14-Jul-2022 22:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[26-Jul-2022 08:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[12-Aug-2022 13:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[16-Sep-2022 02:18:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[23-Sep-2022 23:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[26-Sep-2022 02:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[28-Sep-2022 09:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[12-Nov-2022 05:18:57 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[12-Nov-2022 05:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[12-Nov-2022 05:19:04 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 112
+[12-Nov-2022 05:19:04 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 115
+[14-Nov-2022 06:05:46 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[14-Nov-2022 06:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[03-Dec-2022 02:28:25 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 112
+[03-Dec-2022 02:28:25 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 115
+[03-Dec-2022 06:07:32 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[03-Dec-2022 06:07:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[09-Dec-2022 09:18:56 UTC] PHP Fatal error:  Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[13-Dec-2022 15:58:47 UTC] PHP Fatal error:  Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[13-Dec-2022 15:59:02 UTC] PHP Fatal error:  Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[20-Dec-2022 03:24:41 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[20-Dec-2022 03:24:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[18-Feb-2023 21:32:44 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 112
+[18-Feb-2023 21:32:44 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 115
+[19-Feb-2023 18:58:17 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[19-Feb-2023 18:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[20-Feb-2023 20:16:09 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[20-Feb-2023 20:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[23-Feb-2023 06:26:37 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 112
+[23-Feb-2023 06:26:37 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 115
+[26-Feb-2023 02:44:19 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[26-Feb-2023 02:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[04-Mar-2023 18:32:02 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 6
+[04-Mar-2023 18:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email-plain.blade.php on line 21
+[04-Mar-2023 18:32:04 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 112
+[04-Mar-2023 18:32:04 UTC] PHP Notice:  Undefined variable: level in /home/srkwebapp/public_html/zcart/resources/views/vendor/notifications/email.blade.php on line 115

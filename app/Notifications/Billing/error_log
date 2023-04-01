@@ -1,0 +1,89 @@
+
+[05-Jul-2022 10:47:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[06-Jul-2022 22:49:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[08-Jul-2022 16:13:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[24-Jul-2022 18:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[26-Jul-2022 06:11:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[29-Jul-2022 14:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[28-Aug-2022 16:02:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[31-Aug-2022 01:55:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[13-Sep-2022 05:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[15-Sep-2022 20:32:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[19-Sep-2022 10:15:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[24-Sep-2022 17:54:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[26-Sep-2022 22:07:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[28-Sep-2022 08:14:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[01-Oct-2022 16:53:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[12-Nov-2022 02:56:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[30-Nov-2022 02:43:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[02-Dec-2022 20:24:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[05-Dec-2022 05:13:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[19-Dec-2022 04:00:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[23-Dec-2022 09:02:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11
+[03-Mar-2023 20:17:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Notifications/Billing/SendsInvoiceNotifications.php on line 11

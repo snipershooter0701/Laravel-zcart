@@ -1,0 +1,171 @@
+
+[03-Jul-2022 17:37:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[03-Jul-2022 17:37:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[07-Jul-2022 00:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[07-Jul-2022 00:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[14-Jul-2022 23:57:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[14-Jul-2022 23:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[26-Jul-2022 08:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[26-Jul-2022 08:07:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[12-Aug-2022 15:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[12-Aug-2022 15:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[16-Sep-2022 02:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[16-Sep-2022 02:10:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[21-Sep-2022 20:03:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[21-Sep-2022 20:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[26-Sep-2022 03:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[26-Sep-2022 03:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[28-Sep-2022 09:11:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[28-Sep-2022 09:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[29-Sep-2022 00:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[29-Sep-2022 11:24:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[01-Oct-2022 03:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[12-Nov-2022 05:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[12-Nov-2022 05:13:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[14-Nov-2022 06:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[14-Nov-2022 06:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[28-Nov-2022 13:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[28-Nov-2022 18:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[30-Nov-2022 19:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[03-Dec-2022 14:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[03-Dec-2022 18:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[03-Dec-2022 20:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[04-Dec-2022 17:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[09-Dec-2022 22:10:00 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[10-Dec-2022 09:00:36 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[10-Dec-2022 09:00:37 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[11-Dec-2022 04:38:43 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[11-Dec-2022 21:12:04 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[12-Dec-2022 07:13:49 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[20-Dec-2022 04:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[20-Dec-2022 06:15:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[18-Feb-2023 00:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[21-Feb-2023 09:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[21-Feb-2023 10:20:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[26-Feb-2023 02:48:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[26-Feb-2023 02:56:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15
+[28-Feb-2023 19:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master.blade.php on line 14
+[28-Feb-2023 21:35:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/installer/layouts/master-update.blade.php on line 15

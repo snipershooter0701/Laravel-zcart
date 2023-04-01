@@ -1,0 +1,218 @@
+
+[28-Jun-2022 15:37:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[28-Jun-2022 18:15:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[29-Jun-2022 11:01:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[30-Jun-2022 19:40:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[05-Jul-2022 13:18:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[06-Jul-2022 09:13:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[11-Jul-2022 13:05:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[16-Jul-2022 22:02:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[21-Jul-2022 12:52:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[21-Jul-2022 22:16:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[22-Jul-2022 12:42:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[23-Jul-2022 15:07:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[24-Jul-2022 20:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[26-Jul-2022 08:51:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[29-Jul-2022 18:21:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[29-Jul-2022 23:46:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[05-Aug-2022 09:53:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[06-Aug-2022 08:17:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[08-Aug-2022 06:03:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[09-Aug-2022 05:14:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[16-Aug-2022 17:55:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[21-Aug-2022 16:06:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[25-Aug-2022 15:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[31-Aug-2022 17:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[02-Sep-2022 16:42:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[04-Sep-2022 19:55:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[05-Sep-2022 21:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[07-Sep-2022 13:22:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[09-Sep-2022 00:01:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[09-Sep-2022 18:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[13-Sep-2022 08:02:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[13-Sep-2022 12:34:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[13-Sep-2022 14:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[17-Sep-2022 11:15:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[19-Sep-2022 13:39:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[23-Sep-2022 03:37:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[24-Sep-2022 11:54:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[24-Sep-2022 22:11:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[26-Sep-2022 23:38:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[30-Sep-2022 21:15:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[06-Oct-2022 22:56:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[13-Oct-2022 05:49:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[18-Oct-2022 03:59:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[18-Oct-2022 21:05:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[18-Oct-2022 21:59:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[24-Oct-2022 12:30:49 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[10-Nov-2022 17:16:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[11-Nov-2022 04:52:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[17-Nov-2022 09:00:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[23-Nov-2022 01:32:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[19-Dec-2022 04:38:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[19-Dec-2022 15:54:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[20-Dec-2022 17:49:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[12-Feb-2023 05:31:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7
+[15-Feb-2023 15:47:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/srkwebapp/public_html/zcart/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/tests/TestCase.php on line 7

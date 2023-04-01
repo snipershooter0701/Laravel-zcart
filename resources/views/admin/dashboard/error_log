@@ -1,0 +1,79 @@
+
+[01-Jul-2022 14:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[01-Jul-2022 18:56:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[06-Jul-2022 23:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[23-Jul-2022 07:55:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[26-Jul-2022 07:29:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[16-Aug-2022 00:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[15-Sep-2022 06:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[16-Sep-2022 00:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[22-Sep-2022 13:00:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[28-Sep-2022 08:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[09-Oct-2022 03:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[07-Nov-2022 22:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[12-Nov-2022 04:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[02-Dec-2022 23:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[09-Dec-2022 22:40:01 UTC] PHP Fatal error:  Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[11-Dec-2022 13:30:15 UTC] PHP Fatal error:  Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[15-Dec-2022 16:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[21-Dec-2022 08:11:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[18-Feb-2023 07:50:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[21-Feb-2023 11:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322
+[03-Mar-2023 22:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php:322
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/resources/views/admin/dashboard/merchant.blade.php on line 322

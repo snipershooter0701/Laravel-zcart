@@ -1,0 +1,167 @@
+
+[30-Jun-2022 18:50:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[30-Jun-2022 20:56:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[05-Jul-2022 10:30:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[06-Jul-2022 22:12:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[19-Jul-2022 06:12:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[21-Jul-2022 10:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[23-Jul-2022 14:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[24-Jul-2022 18:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[26-Jul-2022 05:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[27-Jul-2022 15:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[29-Jul-2022 13:53:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[11-Aug-2022 07:46:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[11-Aug-2022 17:21:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[13-Aug-2022 04:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[21-Aug-2022 23:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[24-Aug-2022 09:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[02-Sep-2022 10:22:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[06-Sep-2022 20:40:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[09-Sep-2022 17:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[13-Sep-2022 04:50:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[13-Sep-2022 21:53:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[15-Sep-2022 17:35:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[19-Sep-2022 19:29:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[21-Sep-2022 21:15:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[22-Sep-2022 02:19:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[24-Sep-2022 10:46:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[24-Sep-2022 16:55:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[26-Sep-2022 21:46:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[28-Sep-2022 07:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[02-Oct-2022 14:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[08-Oct-2022 05:59:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[18-Oct-2022 13:49:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[22-Oct-2022 07:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[07-Nov-2022 05:30:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[07-Nov-2022 09:12:58 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[12-Nov-2022 01:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[17-Nov-2022 20:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[19-Nov-2022 12:41:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[27-Nov-2022 05:12:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[02-Dec-2022 18:54:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[19-Dec-2022 04:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[22-Dec-2022 11:05:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11
+[26-Feb-2023 04:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Exceptions/Handler.php on line 11

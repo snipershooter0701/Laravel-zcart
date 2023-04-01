@@ -1,0 +1,93 @@
+
+[05-Jul-2022 11:09:33 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[06-Jul-2022 23:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[08-Jul-2022 16:21:03 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[24-Jul-2022 19:04:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[26-Jul-2022 06:36:48 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[29-Jul-2022 15:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[17-Aug-2022 14:53:07 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[29-Aug-2022 05:50:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[13-Sep-2022 05:35:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[15-Sep-2022 22:16:30 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[19-Sep-2022 10:25:02 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[24-Sep-2022 19:00:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[25-Sep-2022 16:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[26-Sep-2022 22:35:44 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[28-Sep-2022 08:30:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[30-Sep-2022 21:51:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[01-Oct-2022 17:03:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[22-Oct-2022 05:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[12-Nov-2022 03:41:16 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[15-Nov-2022 22:22:33 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[03-Dec-2022 18:05:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[18-Dec-2022 16:16:49 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9
+[20-Dec-2022 03:32:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Role/EloquentRole.php on line 9

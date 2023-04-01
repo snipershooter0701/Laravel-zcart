@@ -1,0 +1,82 @@
+
+[05-Jul-2022 11:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[06-Jul-2022 23:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[08-Jul-2022 16:21:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[24-Jul-2022 19:08:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[26-Jul-2022 06:39:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[29-Jul-2022 15:25:54 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[27-Aug-2022 07:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[13-Sep-2022 05:39:02 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[15-Sep-2022 22:28:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[16-Sep-2022 18:34:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[19-Sep-2022 10:26:03 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[24-Sep-2022 19:08:05 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[25-Sep-2022 06:34:04 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[26-Sep-2022 22:38:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[28-Sep-2022 08:31:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[01-Oct-2022 17:04:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[30-Oct-2022 15:19:21 UTC] PHP Fatal error:  Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[12-Nov-2022 03:46:25 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[30-Nov-2022 22:30:26 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[02-Dec-2022 18:32:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12
+[21-Dec-2022 17:15:06 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Ticket/EloquentTicket.php on line 12

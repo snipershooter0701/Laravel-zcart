@@ -1,0 +1,83 @@
+
+[05-Jul-2022 11:09:55 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[06-Jul-2022 23:18:55 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[08-Jul-2022 16:21:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[24-Jul-2022 19:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[26-Jul-2022 06:37:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[29-Jul-2022 15:24:25 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[13-Sep-2022 05:36:04 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[15-Sep-2022 17:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[15-Sep-2022 22:18:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[19-Sep-2022 10:25:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[24-Sep-2022 19:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[26-Sep-2022 22:36:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[28-Sep-2022 08:30:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[01-Oct-2022 17:03:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[05-Oct-2022 00:38:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[23-Oct-2022 18:13:35 UTC] PHP Fatal error:  Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[29-Oct-2022 15:24:17 UTC] PHP Fatal error:  Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[12-Nov-2022 03:42:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[03-Dec-2022 17:16:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[20-Dec-2022 05:32:30 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[21-Dec-2022 19:35:16 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10
+[03-Mar-2023 03:33:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Repositories\EloquentRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/ShippingRate/EloquentShippingRate.php on line 10

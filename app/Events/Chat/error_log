@@ -1,0 +1,76 @@
+
+[05-Jul-2022 10:25:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[06-Jul-2022 22:06:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[08-Jul-2022 15:30:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[24-Jul-2022 18:09:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[26-Jul-2022 05:22:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[29-Jul-2022 13:46:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[24-Aug-2022 23:56:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[13-Sep-2022 04:41:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[15-Sep-2022 17:03:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[19-Sep-2022 09:30:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[24-Sep-2022 16:39:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[26-Sep-2022 21:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[28-Sep-2022 07:41:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[01-Oct-2022 16:17:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[19-Oct-2022 18:40:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[12-Nov-2022 01:38:01 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 15
+[30-Nov-2022 06:06:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[30-Nov-2022 15:19:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[06-Dec-2022 09:28:13 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[20-Dec-2022 05:46:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcastNow' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 13
+[03-Mar-2023 19:57:46 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/srkwebapp/public_html/zcart/app/Events/Chat/NewMessageEvent.php on line 15

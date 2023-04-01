@@ -1,0 +1,159 @@
+
+[30-Jun-2022 19:01:29 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[30-Jun-2022 19:01:34 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[30-Jun-2022 19:01:34 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[03-Jul-2022 04:50:45 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[03-Jul-2022 04:50:45 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[05-Jul-2022 11:15:04 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[06-Jul-2022 23:23:20 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[21-Jul-2022 11:13:18 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[21-Jul-2022 11:13:28 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[21-Jul-2022 11:13:28 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[23-Jul-2022 14:25:27 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[23-Jul-2022 14:25:31 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[23-Jul-2022 14:25:31 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[24-Jul-2022 19:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[26-Jul-2022 06:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[29-Jul-2022 15:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[12-Aug-2022 03:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[13-Aug-2022 09:36:44 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[13-Aug-2022 09:36:44 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[30-Aug-2022 12:35:58 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[01-Sep-2022 12:55:35 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[01-Sep-2022 12:55:35 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[02-Sep-2022 12:27:07 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[02-Sep-2022 12:27:39 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[02-Sep-2022 12:27:39 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[09-Sep-2022 17:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[09-Sep-2022 17:49:49 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[09-Sep-2022 17:49:49 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[11-Sep-2022 01:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[12-Sep-2022 22:09:30 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[12-Sep-2022 22:09:30 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[13-Sep-2022 05:42:46 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[15-Sep-2022 22:38:07 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[17-Sep-2022 15:18:21 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[19-Sep-2022 18:22:41 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[21-Sep-2022 20:52:51 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[21-Sep-2022 20:52:51 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[22-Sep-2022 11:53:30 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[22-Sep-2022 11:53:30 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[24-Sep-2022 11:05:12 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[24-Sep-2022 11:05:16 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[24-Sep-2022 11:05:16 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[24-Sep-2022 14:36:59 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[24-Sep-2022 14:36:59 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[24-Sep-2022 19:15:41 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[26-Sep-2022 14:56:25 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[26-Sep-2022 14:56:25 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[26-Sep-2022 22:30:24 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[26-Sep-2022 22:40:51 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[28-Sep-2022 08:33:29 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[13-Oct-2022 14:01:46 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[14-Oct-2022 09:56:33 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[14-Oct-2022 09:56:33 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[20-Oct-2022 14:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[21-Oct-2022 07:40:28 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[21-Oct-2022 07:40:28 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[27-Oct-2022 05:05:18 UTC] PHP Fatal error:  Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[12-Nov-2022 03:52:06 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[27-Nov-2022 23:10:27 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[27-Nov-2022 23:10:27 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[29-Nov-2022 10:43:13 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[29-Nov-2022 10:43:13 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[07-Dec-2022 15:27:40 UTC] PHP Fatal error:  Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 10
+[10-Dec-2022 08:13:02 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/srkwebapp/public_html/zcart/app/Services/DbService.php on line 18
+[10-Dec-2022 20:29:03 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/srkwebapp/public_html/zcart/app/Services/DbService.php on line 18
+[18-Dec-2022 05:02:20 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[19-Dec-2022 11:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[17-Feb-2023 10:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9
+[26-Feb-2023 10:22:19 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 76
+[26-Feb-2023 10:22:19 UTC] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in /home/srkwebapp/public_html/zcart/app/Services/TpdfInvoice.php on line 733
+[03-Mar-2023 03:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Services/PdfInvoice.php on line 9

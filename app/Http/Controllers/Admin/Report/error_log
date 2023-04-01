@@ -1,0 +1,150 @@
+
+[08-Jul-2022 15:39:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[08-Jul-2022 15:39:24 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[08-Jul-2022 15:39:31 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[08-Jul-2022 15:39:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11
+[29-Jul-2022 14:01:50 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[29-Jul-2022 14:02:05 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[29-Jul-2022 14:02:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[29-Jul-2022 14:02:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11
+[04-Aug-2022 16:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[04-Aug-2022 16:41:24 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[04-Aug-2022 16:41:29 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[04-Aug-2022 16:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11
+[19-Sep-2022 09:44:06 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[19-Sep-2022 09:44:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[19-Sep-2022 09:44:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[19-Sep-2022 09:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11
+[01-Oct-2022 16:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[01-Oct-2022 16:23:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[01-Oct-2022 16:24:04 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[01-Oct-2022 16:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11
+[07-Oct-2022 03:55:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[07-Oct-2022 03:55:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[07-Oct-2022 03:55:31 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[07-Oct-2022 03:55:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11
+[04-Dec-2022 00:50:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[04-Dec-2022 00:52:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[05-Dec-2022 06:09:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11
+[05-Dec-2022 06:10:25 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[05-Dec-2022 17:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[05-Dec-2022 18:20:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[06-Dec-2022 01:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[07-Dec-2022 01:06:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 12
+[09-Dec-2022 01:48:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 44
+[09-Dec-2022 05:35:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 10
+[09-Dec-2022 08:32:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 10
+[09-Dec-2022 08:37:19 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 12
+[09-Dec-2022 09:33:47 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 12
+[09-Dec-2022 13:53:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 44
+[09-Dec-2022 16:56:46 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 13
+[09-Dec-2022 21:38:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 13
+[05-Mar-2023 00:30:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/PerformanceIndicatorsController.php on line 12
+[05-Mar-2023 00:30:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/SalesReportController.php on line 11
+[05-Mar-2023 00:30:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/ShopPerformanceIndicatorsController.php on line 9
+[05-Mar-2023 00:30:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Http/Controllers/Admin/Report/VisitorController.php on line 11

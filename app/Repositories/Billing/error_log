@@ -1,0 +1,87 @@
+
+[05-Jul-2022 11:00:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[06-Jul-2022 23:11:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[08-Jul-2022 16:18:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[24-Jul-2022 18:54:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[26-Jul-2022 06:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[29-Jul-2022 15:18:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[27-Aug-2022 23:41:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[28-Aug-2022 20:20:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[30-Aug-2022 09:31:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[13-Sep-2022 05:27:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[13-Sep-2022 19:16:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[15-Sep-2022 21:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[19-Sep-2022 10:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[24-Sep-2022 18:36:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[26-Sep-2022 22:28:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[28-Sep-2022 08:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[01-Oct-2022 17:00:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[19-Oct-2022 00:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[12-Nov-2022 03:24:37 UTC] PHP Fatal error:  Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[03-Dec-2022 06:15:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[19-Dec-2022 11:05:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[22-Dec-2022 06:41:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
+[04-Mar-2023 22:43:39 UTC] PHP Fatal error:  Interface 'App\Contracts\Repositories\InvoiceRepository' not found in /home/srkwebapp/public_html/zcart/app/Repositories/Billing/InvoiceRepository.php on line 10
